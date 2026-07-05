@@ -34,15 +34,11 @@ Traditional keyword-based search often fails to capture the actual context of a 
 ## Project Structure
 
 ```text
-notebooks/
-│── EDA.ipynb
-│── Search_Engine.ipynb
-images/
+EDA.ipynb
+Search_Engine.ipynb
 README.md
 requirements.txt
 dataset.md
-LICENSE
-CONTRIBUTING.md
 ```
 
 ## Installation
